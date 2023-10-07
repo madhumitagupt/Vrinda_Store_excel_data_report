@@ -35,3 +35,8 @@ To improve Vrinda Store's sales for 2023, the following strategies are suggested
 - **Channel Optimization**: Enhance marketing and promotions on platforms like Amazon, Flipkart, and Myntra, which are the primary sales channels.
   
 Note: This analysis was conducted using **Microsoft Excel 365**, leveraging its latest features for robust data analysis and visualization.
+
+**Special Thanks**
+
+**Rishabh Mishra** https://www.youtube.com/watch?v=gTK5rNhWJyA
+Excel Dataset Download: https://bit.ly/3X381ok
